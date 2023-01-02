@@ -1,1 +1,1 @@
-print ("Selamun Aleykum  World")
+print ("Selamun Aleykum  World Hersey hayirli ve Lutugla olsun")
